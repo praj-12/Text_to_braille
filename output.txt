@@ -1,0 +1,19 @@
+First line 
+o o   . o   o .   . o   . o         o .   . o   o o   o .         
+o .   o .   o o   o .   o o         o .   o .   . o   . o         
+. .   . .   o .   o .   o .         o .   . .   o .   . .         
+
+Second line
+. o   o .   o o   o .   o o   o o         o .   . o   o o   o .   
+o .   . o   . .   . o   . o   . o         o .   o .   . o   . o   
+o .   . .   . .   o .   o .   . .         o .   . .   o .   . .   
+
+1 2 3 4 5
+. .         . .         . .         . o         . o   
+o o         o o         o o         . o         . o   
+. o         o .         o o         . .         . o   
+
+@ ! # % + =o .         o .         o .         . o         . o         . o   
+. o         . o         o o         o .         . o         . .   
+o o         . o         . o         o o         . o         o .   
+
